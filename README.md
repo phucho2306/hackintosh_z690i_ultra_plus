@@ -1,1 +1,1 @@
-# hackintosh_z690i_utral_plus
+# hackintosh Gigabyte z690i ultral plus
