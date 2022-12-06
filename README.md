@@ -1,4 +1,7 @@
 # hackintosh Gigabyte z690i ultral plus
+
+![alt text](https://github.com/phucho236/hackintosh_z690i_ultra_plus/blob/develop/images/Screenshot%202022-12-06%20at%2017.46.24.png?raw=true)
+
 Please gen new sm bios using Opencore Configurator
 
 Hardware
@@ -36,5 +39,6 @@ What works
 *  Ethernet
 *  All USB ports
 
+![alt text](https://github.com/phucho236/hackintosh_z690i_ultra_plus/blob/develop/images/3cda7c712f92f6ccaf83.jpg)
 
 Thank glekner https://github.com/glekner/GIGABYTE-Z690I-Hackintosh
