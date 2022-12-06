@@ -1,7 +1,6 @@
 # hackintosh Gigabyte z690i ultral plus
 Please gen new sm bios using Opencore Configurator
 
-￼
 Hardware
 * Case mini ITX Zen Zone World Art A1
 * Gigabyte Z690I Aorus
@@ -12,6 +11,8 @@ Hardware
 * 2xWD Blue SN570 500gb NVMe
 * Flex Enhance 450w - Module - YTC mod
 * WiFi/BT stock
+
+
 Bios
 * CFG-Lock - off
 * Fast Boot - off
@@ -21,6 +22,8 @@ Bios
 * Above 4G decoding - on
 * Re-Size BAR Support - on
 * XHCI Hand-off - on
+
+
 What works
 *  Sleep/Wake
 *  Shutdown/Reboot
