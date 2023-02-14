@@ -1,5 +1,7 @@
 # hackintosh Gigabyte z690i ultral plus
 ![alt text](https://github.com/phucho236/hackintosh_z690i_ultra_plus/blob/develop/images/Screenshot%202022-12-06%20at%2017.46.24.png)
+
+
 Please gen new sm bios using Opencore Configurator
 
 New in version 8.0.6_v1 to newer version
